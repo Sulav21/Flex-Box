@@ -91,7 +91,7 @@ h3 {
 .hero {
   width: 100%;
   min-height: 80vh;
-  background: url(/assets/travel1.jpg) no-repeat center center;
+  background: url(./assets/travel1.jpg) no-repeat center center;
   background-size: cover;
 
   display: flex;
